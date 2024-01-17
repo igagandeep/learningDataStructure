@@ -1,3 +1,4 @@
+import 
 function fibonacci(n) {
   const fib = [0, 1];
 
@@ -7,4 +8,4 @@ function fibonacci(n) {
   return fib;
 }
 
-console.log(fibonacci(5));
+console.log(fibonacci(2));
